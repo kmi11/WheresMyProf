@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Schedule</title>
+	<meta name="generator" content="BBEdit 13.0" />
+</head>
+<body>
+<schedule> 
+
+	<semester> Spring 2020 </semester>
+		<event> Introduction to Computer Science I </event>
+		<name> CS 171 </name>
+		<day> 1,3,5 </day>
+		<start>
+			<hour>10 </hour>
+			<minute>30</minute>
+			</start>
+		<stop>
+			<hour>11 </hour>
+			<minute>45</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>223</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+		
+		<event>Software Development </event>
+		<name> CS 275 </name>
+		<day> 1,3,5 </day>
+		<start>
+			<hour>11 </hour>
+			<minute>45</minute>
+			</start>
+		<stop>
+			<hour>12 </hour>
+			<minute>50</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>221</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+
+		<event>  Introduction to Computer Science I Lab </event>
+		<name> CS 171L </name>
+		<day> 2 </day>
+		<start>
+			<hour>14 </hour>
+			<minute>15</minute>
+			</start>
+		<stop>
+			<hour>16 </hour>
+			<minute>30</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>251</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+
+
+		<event> Colloquium </event>
+		<name> MATH/CS 399 </name>
+		<day> 4 </day>
+		<start>
+			<hour>15 </hour>
+			<minute>30</minute>
+			</start>
+		<stop>
+			<hour>16 </hour>
+			<minute>30</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>251</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+	
+
+
+<semester>Spring 2020</semester>
+		<event> Foundations of Computing</event>
+		<name> CS/MATH 358 </name>
+		<day> 1,3,5 </day>
+		<start>
+			<hour>9 </hour>
+			<minute>15</minute>
+			</start>
+		<stop>
+			<hour>10 </hour>
+			<minute>20</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>221</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F </Interruptible>
+		
+		<event> Perspectives On Gambling </event>
+		<name> Honors 135 </name>
+		<day> 1,2,3,5 </day>
+		<start>
+			<hour>13 </hour>
+			<minute>00</minute>
+			</start>
+		<stop>
+			<hour>13 </hour>
+			<minute>50</minute>
+			</stop>
+		<location>
+			<building>Observatory</building>
+			<room>XXX</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+
+		<event> Integrated Science for Elementary Teachers </event>
+		<name> Science 285 </name>
+		<day> 1,2,3,5 </day>
+		<start>
+			<hour>14 </hour>
+			<minute>15</minute>
+			</start>
+		<stop>
+			<hour>15</hour>
+			<minute>05</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>227</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+
+		<event> Colloquium </event>
+		<name> MATH/CS 399 </name>
+		<day> 4 </day>
+		<start>
+			<hour>15</hour>
+			<minute>30</minute>
+			</start>
+		<stop>
+			<hour>16</hour>
+			<minute>30</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>251</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+		
+		<event> Mathematics of the Gambling Industry </event>
+		<name> MATH 257 </name>
+		<day> 1 </day>
+		<start>
+			<hour>19</hour>
+			<minute>0</minute>
+			</start>
+		<stop>
+			<hour>20</hour>
+			<minute>0</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>221</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+
+
+<semester> Spring 2020</semester>
+		<event> Financial Mathematics for Actuaries </event>
+		<name> MATH 313 </name>
+		<day> 1,2,3,4 </day>
+		<start>
+			<hour>8</hour>
+			<minute>00</minute>
+			</start>
+		<stop>
+			<hour>9</hour>
+			<minute>05</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>221</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F </Interruptible>
+		
+		<event> Trigonometry </event>
+		<name> MATH 127 </name>
+		<day> 1,3 </day>
+		<start>
+			<hour>10</hour>
+			<minute>30</minute>
+			</start>
+		<stop>
+			<hour>11</hour>
+			<minute>35</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>225</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F </Interruptible>
+
+		<event> Mathematical Theory of Interest II </event>
+		<name> MATH 388 </name>
+		<day> 2,4 </day>
+		<start>
+			<hour>10</hour>
+			<minute>30</minute>
+			</start>
+		<stop>
+			<hour>11</hour>
+			<minute>35</minute>
+			</stop>
+		<location>
+			<building> Palenske</building>
+			<room>225</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F </Interruptible>
+
+		<event> Mathematical Modeling </event>
+		<name> MATH 360 </name>
+		<day> 1,2,3 </day>
+		<start>
+			<hour>13</hour>
+			<minute>00</minute>
+			</start>
+		<stop>
+			<hour>14</hour>
+			<minute>05</minute>
+			</stop>
+		<location>
+			<building >Palenske</building>
+			<room>221</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F </Interruptible>
+
+
+		<event> Introduction to Solid Mechanics </event>
+		<name> MATH 275 </name>
+		<day> 1,2,3,4
+		<start>
+			<hour>14</hour>
+			<minute>15</minute>
+			</start>
+		<stop>
+			<hour>15</hour>
+			<minute>20</minute>
+			</stop>
+		<location>
+			<building >Palenske</building>
+			<room>221</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F </Interruptible>
+
+
+		<event> Colloquium </event>
+		<name> MATH/CS 399 </name>
+		<day> 4 </day>
+		<start>
+			<hour>15</hour>
+			<minute>30</minute>
+			</start>
+		<stop>
+			<hour>16</hour>
+			<minute>30</minute>
+			</stop>
+		<location>
+			<building>Palenske</building>
+			<room>251</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>F</Interruptible>
+
+
+<semester> Spring 2020 </semester>
+		<event> Digital Tools </event>
+		<name> ART 201 </name>
+		<day> 1,3 </day>
+		<start>
+			<hour>14</hour>
+			<minute>15</minute>
+			</start>
+		<stop>
+			<hour>16</hour>
+			<minute>05</minute>
+			</stop>
+		<location>
+			<building>Bobbitt</building>
+			<room>102</room>
+			</location>
+		<color>HEX</color>
+		<Interruptible>T </Interruptible>
+		
+</schedule> 
+</body>
+</html>
